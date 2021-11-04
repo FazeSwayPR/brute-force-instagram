@@ -1,7 +1,7 @@
 from webbot import Browser
 from pynput.keyboard import Key, Controller
 import time
-username = input('Username: ')
+username = input('bri_secaida: ')
 dictionary = input('Choose Dictionary: ')
 
 file = open(f'{dictionary}.txt', 'r')
